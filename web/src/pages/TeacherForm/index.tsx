@@ -113,7 +113,7 @@ function TeacherForm() {
                     </fieldset>
 
                     <fieldset>
-                        <legend>Seus a aula</legend>
+                        <legend>Sua aula</legend>
 
                             <Select 
                                 name="subject" 

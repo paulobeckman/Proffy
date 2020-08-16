@@ -29,6 +29,7 @@
 }
 
 #search-teachers button:hover {
+    text-decoration: none;
     background: var(--color-secundary-dark);
 }
 
