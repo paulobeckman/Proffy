@@ -67,11 +67,13 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 	
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./github-assets/Proffy.gif" width="800px">	
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./github-assets/Proffy2.gif" width="800px">	
 		
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./github-assets/pagina1.png" width="400px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./github-assets/pagina4.png" width="400px">
 
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./github-assets/paginas2.png" width="400px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./github-assets/pagina5.png" width="400px">
+
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./github-assets/pagina6.png" width="400px">
 </p>
 
 ## 🛠 Tecnologias
