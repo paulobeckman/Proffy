@@ -57,7 +57,9 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 		
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./github-assets/pagina1.png" width="400px">
 
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./github-assets/paginas2.png" width="400px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./github-assets/pagina2.png" width="400px">
+
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./github-assets/pagina3.png" width="400px">
 </p>
 
 
