@@ -34,7 +34,7 @@
 Os professores poderão se cadastrar na plataforma web enviando:
 - nome
 - uma url de imagem dele 
-- número de whatasapp
+- número de whatsapp
 - biografia
 - matéria
 - custo de sua hora por aula
@@ -43,13 +43,21 @@ Os professores poderão se cadastrar na plataforma web enviando:
   - hora de início
   - hora de termino
 
-Os alunos podem escolher a matéria, dia da semana e hora que desejam estudar e assime entrar em contato com o professor usando o whatsapp.
+Os alunos podem escolher a matéria, dia da semana e hora que desejam estudar e assim entrar em contato com o professor usando o whatsapp.
  
-Projeto desenvolvido durante a **NLW2 - Next Level Week 2** oferecida pela [Rocketseat](rs).
+Projeto desenvolvido durante a **NLW2 - Next Level Week 2** oferecida pela [Rocketseat][rs].
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 
+
+### Visual
+
+##### Visualize o front-end da aplicação web aqui: [Proffy Web](https://proffyclass.netlify.app/)
+
+
 ### Web
+
+
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 	
